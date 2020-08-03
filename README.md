@@ -4,8 +4,6 @@
 - C#
 - JavaScript
 - Python
-- HTML
-- CSS
 
 # Topics currently interested in
 - Discord Raiding
