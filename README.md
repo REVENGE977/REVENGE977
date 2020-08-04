@@ -21,3 +21,5 @@ YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
 
 # Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Bowlingtoolkit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bowlingtoolkit)
