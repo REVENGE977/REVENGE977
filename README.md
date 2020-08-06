@@ -1,3 +1,5 @@
+# NOTE: I'VE CHANGED MY GITHUB ACCOUNT USERNAME FROM BOWLINGTOOLKIT TO KAMUI966
+
 *All Projects Are Only For Educational Purposes*
 
 # The programming languages I know
