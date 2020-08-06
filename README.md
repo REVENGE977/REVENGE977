@@ -12,7 +12,7 @@
 - Malicious & Viruses
 
 # Social Media
-Discord: REVENGE2ACC#0079 ( My Old Account Got Terminated ! )
+Discord: REVENGE#0079 ( My Old Account Got Terminated ! )
 <br>
 Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
