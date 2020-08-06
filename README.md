@@ -18,7 +18,7 @@ Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
 YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
 <br>
-[Discord Server](https://discord.gg/npFXCfn)
+[Discord Server](https://discord.gg/npFXCfn) OLD DISCORD SERVER GOT BANNED
 
 
 # Stats
