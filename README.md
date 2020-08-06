@@ -12,13 +12,13 @@
 - Malicious & Viruses
 
 # Social Media
-Discord: REVENGE#4533 ( DM Closed, Join my discord server to talk with me :) )
+Discord: REVENGE2ACC#0079 ( My Old Account Got Terminated ! )
 <br>
 Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
 YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
 <br>
-[Discord Server](https://discord.gg/PDquBGz)
+[Discord Server](https://discord.gg/npFXCfn)
 
 
 # Stats
