@@ -1,5 +1,7 @@
 # NOTE: I'VE CHANGED MY GITHUB ACCOUNT USERNAME FROM BOWLINGTOOLKIT TO KAMUI966
 
+
+# NOTE: MY DISCORD ACCOUNT GOT TERMINATED, MY NEW ACCOUNT: REVENGE#0680
 *All Projects Are Only For Educational Purposes*
 
 # The programming languages I know
@@ -12,7 +14,7 @@
 - Malicious & Viruses
 
 # Social Media
-Discord: REVENGE#0680 ( My Old Account Got Terminated ! )
+Discord: REVENGE#0680
 <br>
 Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
