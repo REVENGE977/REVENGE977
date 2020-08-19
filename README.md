@@ -14,7 +14,7 @@
 - Malicious & Viruses
 
 # Social Media
-Discord: REVENGE#0680
+Discord: REVENGE#1337
 <br>
 Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
