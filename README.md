@@ -4,14 +4,17 @@
 # NOTE: MY DISCORD ACCOUNT GOT TERMINATED, MY NEW ACCOUNT: REVENGE#1337
 *All Projects Are Only For Educational Purposes*
 
-# The programming languages I know
+# The programming languages & frameworks I know
 - C#
-- JavaScript
+- JavaScript & NodeJS
 - Python
+- Vue
+
+*And Soon C++*
 
 # Topics currently interested in
-- Discord Raiding
-- Malicious & Viruses
+- Discord Bugs 😜
+- Malicious & Viruses and how they works
 
 # Social Media
 Discord: REVENGE#1337
