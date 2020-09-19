@@ -13,8 +13,6 @@
 - Malicious & Viruses and how they works
 
 # Social Media
-Discord: REVENGE#1337
-<br>
 Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
 <br>
 YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
