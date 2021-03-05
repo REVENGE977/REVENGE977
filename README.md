@@ -7,8 +7,7 @@
 - JavaScript & NodeJS
 - Python
 - Vue
-- C++ (Beginner)
-- C (Beginner)
+- C/C++ (Beginner)
 
 # Topics currently interested in
 - iOS Jailbreak and how it works
