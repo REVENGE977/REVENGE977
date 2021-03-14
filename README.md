@@ -2,7 +2,7 @@
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
-### The programming languages & frameworks I know
+### programming languages and other things i know:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
