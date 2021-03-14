@@ -3,6 +3,7 @@
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
 ### The programming languages & frameworks I know
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">
@@ -27,6 +28,7 @@
 <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" width="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" width="30">
+</p>
 
 ### Topics currently interested in
 <img src="https://g.top4top.io/p_1899nwus01.png" width="30"> iOS Jailbreak and how it works
