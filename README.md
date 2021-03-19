@@ -33,7 +33,7 @@
 ### Topics currently interested in
 - <img src="https://beanstalkwebsolutions.com/includes/images/MobileApplications.png" width="30">Mobile apps development
 
-- <img src="https://i.pinimg.com/originals/59/15/77/5915776fc066452867febc504aa01185.jpg" width="30">iOS Jailbreak and how it works
+- <img src="https://i.pinimg.com/originals/59/15/77/5915776fc066452867febc504aa01185.jpg" width="30"> iOS Jailbreak and how it works
 
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=REVENGE977&show_icons=true&theme=radical) 
