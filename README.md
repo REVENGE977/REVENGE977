@@ -21,7 +21,7 @@
 <img src="http://blog.unisecure.com/wp-content/uploads/2015/05/cloud-sql-database-.png" width="30">
 <img src="https://www.mementotech.in/assets/images/icons/express.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" width="30">
-<img src="https://modworkshop.net/mydownloads/previews/preview_59119_1560961424_55a30000d4c50a4f86a3bf3bfb279ff5.png" width="30">
+<img src="https://www.freeiconspng.com/uploads/powershell-icon-3.png" width="30">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/yarn/yarn-original.svg" width="30">
