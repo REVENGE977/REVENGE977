@@ -36,6 +36,8 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cydia_logo.png" width="30"> iOS Jailbreak and how it works
 
 ### Stats
+![trophy](https://github-profile-trophy.vercel.app/?username=REVENGE977&theme=gruvbox)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=REVENGE977&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVENGE977&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
