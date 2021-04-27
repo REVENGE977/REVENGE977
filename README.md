@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 😊</h1>
+<h1 align="center">Hello there :D</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
