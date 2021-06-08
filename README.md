@@ -42,4 +42,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVENGE977&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 # 
-<h1 align="center"><a href="https://paypal.me/moayadalj">💲 Donate Me 💵</a></h1>
