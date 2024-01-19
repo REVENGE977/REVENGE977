@@ -2,7 +2,7 @@
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
-### programming languages and other things i know:
+### Stuff I know:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
@@ -16,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/jquery/jquery-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-plain.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" width="30">
 <img src="http://blog.unisecure.com/wp-content/uploads/2015/05/cloud-sql-database-.png" width="30">
 <img src="https://www.mementotech.in/assets/images/icons/express.png" width="30">
@@ -24,16 +23,12 @@
 <img src="https://www.freeiconspng.com/uploads/powershell-icon-3.png" width="30">
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/yarn/yarn-original.svg" width="30">
 <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" width="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" width="30">
 </p>
 
 ### Topics currently interested in
 - <img src="https://beanstalkwebsolutions.com/includes/images/MobileApplications.png" width="30">Mobile apps development
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cydia_logo.png" width="30"> iOS Jailbreak and how it works
 
 ### Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=REVENGE977&theme=gruvbox)
