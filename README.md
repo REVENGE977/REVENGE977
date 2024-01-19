@@ -27,7 +27,7 @@
 </p>
 
 ### Topics currently interested in
-- <img src="https://beanstalkwebsolutions.com/includes/images/MobileApplications.png" width="30">Mobile apps development
+- Mobile apps development
 
 ### Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=REVENGE977&theme=gruvbox)
