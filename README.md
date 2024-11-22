@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" width="30">
 <img src="http://blog.unisecure.com/wp-content/uploads/2015/05/cloud-sql-database-.png" width="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" width="30">
 <img src="https://www.mementotech.in/assets/images/icons/express.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" width="30">
 <img src="https://www.freeiconspng.com/uploads/powershell-icon-3.png" width="30">
