@@ -79,7 +79,7 @@ If you're feeling generous, you can support me financially by clicking the butto
 
 ## 🔗 **Connect with Me**
 <p align="center">
-  <a href="mailto:32039975+REVENGE977@users.noreply.github.comm">
+  <a href="mailto:32039975+REVENGE977@users.noreply.github.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://x.com/REV_966">
