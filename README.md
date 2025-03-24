@@ -7,7 +7,6 @@
 </p>
 
 
---- 
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/REVENGE977?label=followers&style=flat-square" alt="GitHub Followers">
@@ -19,7 +18,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/IDE-Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=flat-square" alt="VSC">
 </p>
 
----
 
 ## 🔧 **Technologies & Expertise**
 <p align="center">
@@ -46,14 +44,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40">
 </p>
 
----
 
 ## 🚀 **Currently Interested In**
 - 📱 Mobile app development
 - 🖥️ Desktop applications with Electron/.NET
 - 🌐 Full-stack web development
 
----
+
 
 ## 📊 **GitHub Stats**
 <p align="center">
@@ -63,7 +60,7 @@
 </p>
 
 
----
+
 
 ## ❤️ **Support Me**
 If you're feeling generous, you can support me financially by clicking the button below. Every contribution is truly appreciated!  
@@ -74,7 +71,7 @@ If you're feeling generous, you can support me financially by clicking the butto
   </a>
 </p>
 
----
+
 
 ## 🔗 **Connect with Me**
 <p align="center">
