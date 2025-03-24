@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/REVENGE977?label=followers&style=flat-square" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/REVENGE977?affiliations=OWNER&style=flat-square" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/REVENGE977?label=Followers&style=flat-square" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/REVENGE977?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub Stars">
   <img src="https://img.shields.io/badge/OS-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Editor-Vim-green?style=flat-square&logo=vim" alt="Vim">
   <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows-%230078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
