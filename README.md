@@ -84,4 +84,12 @@ If you're feeling generous, you can support me financially by clicking the butto
   <a href="https://www.reddit.com/user/REVENGE966/">
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
+  <a href="https://discord.gg/jDsgcehrp7">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <br>
+  <a href="https://discord.com/users/782240217029410816">
+    <img src="https://discord-readme-badge.vercel.app/api?id=782240217029410816">
+  </a>
 </p>
+
