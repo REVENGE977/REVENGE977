@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/OS-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Editor-Vim-green?style=flat-square&logo=vim" alt="Vim">
   <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows-%230078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat-square" alt="VSC">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=flat-square" alt="VSC">
+  <img src="https://custom-icon-badges.demolab.com/badge/Editor-Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat-square" alt="VSC">
+  <img src="https://custom-icon-badges.demolab.com/badge/IDE-Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=flat-square" alt="VSC">
 </p>
 
 ---
