@@ -52,8 +52,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REVENGE977&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&text_color=DEDEDE&layout=compact" weight=41% height="192px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVENGE977&layout=compact&show_icons=true&theme=transparent&hide_border=true&text_color=DEDEDE" alt="Top Languages" height="192px">
+  <img src="https://githubcard.com/REVENGE977.svg?d=9rDugmMx" alt="GitHub Stats">
   <img alt="REVENGE977's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=REVENGE977&bg_color=transparent&color=DEDEDE&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contributions⠀Graph" />
 </p>
 
