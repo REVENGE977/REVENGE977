@@ -53,7 +53,7 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://githubcard.com/REVENGE977.svg?d=9rDugmMx" alt="GitHub Stats">
-  <img alt="REVENGE977's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=REVENGE977&bg_color=transparent&color=DEDEDE&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contributions⠀Graph" />
+  <!-- <img alt="REVENGE977's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=REVENGE977&bg_color=transparent&color=DEDEDE&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contributions⠀Graph" /> -->
 </p>
 
 
